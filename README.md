@@ -14,7 +14,8 @@
 
 # Primeiros Passos com JavaScript
 ## Tópicos abordados:
-  - Variáveis e Operadores: anotações sobre o tema e desafio realizado. Arquivo: `./variaveis-e-operadores.js`
+  - Variáveis e Operadores: `./variaveis-e-operadores.js`
+  - Estruturas Condicionais: `./estruturas-condicionais.js`
 # Conhecendo Funções JavaScript
 # Criando Objetos e Classes em JavaScript
 # Arrays e Estruturas de Repetição em JavaScript

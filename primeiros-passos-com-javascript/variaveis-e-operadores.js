@@ -1,9 +1,9 @@
 // Variáveis: espaços na memória usados para armazenar um valor.
 
-let variavelLet = 'alterável';
-const constante = 'constante';
+let variavelLet = 'variável que pode ser reatribuída';
+const constante = 'variável que não pode ser reatribuída';
 
-variavelLet = 'Outro valor';
+variavelLet = 'outro valor';
 // constante = 'TypeError';
 
 
