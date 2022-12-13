@@ -16,6 +16,7 @@
 ## Tópicos abordados:
   - Variáveis e Operadores: `./variaveis-e-operadores.js`
   - Estruturas Condicionais: `./estruturas-condicionais.js`
+  - Praticando Com Variaveis Operadores Estruturas Condicionais: `./praticando-com-variaveis-operadores-estruturas-condicionais.js`
 # Conhecendo Funções JavaScript
 # Criando Objetos e Classes em JavaScript
 # Arrays e Estruturas de Repetição em JavaScript
