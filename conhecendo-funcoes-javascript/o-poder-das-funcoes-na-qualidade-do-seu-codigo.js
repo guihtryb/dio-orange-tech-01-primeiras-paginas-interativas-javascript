@@ -15,13 +15,11 @@ myFunction();
 function yourFavoriteSport(sportName) {
   console.log('O esporte favorito dessa pessoa é:', sportName);
 }
-
 yourFavoriteSport('Basketball');
 
 function square(number) {
   return number * number;
 }
-
 console.log(square(10));
 
 // Refatorando o código da aula passada para funções!
@@ -42,6 +40,7 @@ function calcGradesAverage(gradesArray) {
 
   return totalPoints / gradesArray.length;
 }
+
 function classificateGradesAverage(average) {
   let status = '';
 
@@ -55,8 +54,6 @@ function classificateGradesAverage(average) {
 
   return status;
 }
-
-calcGrades([10, 4, 10]);
 
 // Função 2 - Cálculo IMC:
 function calcIMC(height, weight) {
@@ -79,35 +76,35 @@ function classificateImc(imc) {
 }
 
 // Função 3 - Calcular valor a ser pago por um produto considerando preço normal e etiqueta da condição de pagamento
-function calcProductPrice(productPrice, method) {
+function calcProductPriceWithDiscount(productPrice, method) {
   const [
-    debitMethod,
-    cashOrPixMethod,
-    twoInstallments,
-    moreThanTwoInstallments
+    debitDiscount,
+    cashOrPixDiscount,
+    twoInstallmentsDiscount,
+    moreThanTwoInstallmentsDiscount
   ] = [0.9, 0.85, 1, 1.1];
 
   let priceToPay = 0;
 
   switch (method) {
     case 1:
-      priceToPay = debitMethod * productPrice;
+      priceToPay = debitDiscount * productPrice;
       console.log('Valor a ser pago: R$', priceToPay.toFixed(2));
       break;
     case 2:
-      priceToPay = cashOrPixMethod * productPrice;
+      priceToPay = cashOrPixDiscount * productPrice;
       console.log('Valor a ser pago: R$', priceToPay.toFixed(2));
       break;
     case 3:
-      priceToPay = cashOrPixMethod * productPrice;
+      priceToPay = cashOrPixDiscount * productPrice;
       console.log('Valor a ser pago: R$', priceToPay.toFixed(2));
       break;
     case 4:
-      priceToPay = twoInstallments * productPrice;
+      priceToPay = twoInstallmentsDiscount * productPrice;
       console.log('Valor a ser pago: R$', priceToPay.toFixed(2));
       break;
     default:
-      priceToPay = moreThanTwoInstallments * productPrice;
+      priceToPay = moreThanTwoInstallmentsDiscount * productPrice;
       console.log('Valor a ser pago: R$', priceToPay.toFixed(2));
     }
 }
