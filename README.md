@@ -18,6 +18,9 @@
   - Estruturas Condicionais: `./estruturas-condicionais.js`
   - Praticando Com Variaveis Operadores Estruturas Condicionais: `./praticando-com-variaveis-operadores-estruturas-condicionais.js`
 # Conhecendo Funções JavaScript
+## Tópicos abordados:
+  - O Poder das Funções na Qualidade do Seu Código: `./o-poder-das-funcoes-na-qualidade-do-seu-codigo.js`
+
 # Criando Objetos e Classes em JavaScript
 # Arrays e Estruturas de Repetição em JavaScript
 # Importação e Exportação
