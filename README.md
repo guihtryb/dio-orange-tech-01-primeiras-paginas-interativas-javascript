@@ -13,14 +13,14 @@
 - [Construindo uma Pokédex com JavaScript](#construindo-uma-pokédex-com-javascript)
 
 # Primeiros Passos com JavaScript
-  - Variáveis e Operadores: `./variaveis-e-operadores.js`
-  - Estruturas Condicionais: `./estruturas-condicionais.js`
-  - Praticando Com Variaveis Operadores Estruturas Condicionais: `./praticando-com-variaveis-operadores-estruturas-condicionais.js`
+  - Variáveis e Operadores: `primeiros-passos-com-javascript/variaveis-e-operadores.js`
+  - Estruturas Condicionais: `primeiros-passos-com-javascript/estruturas-condicionais.js`
+  - Praticando Com Variaveis Operadores Estruturas Condicionais: `primeiros-passos-com-javascript/praticando-com-variaveis-operadores-estruturas-condicionais.js`
 # Conhecendo Funções JavaScript
-  - O Poder das Funções na Qualidade do Seu Código: `./o-poder-das-funcoes-na-qualidade-do-seu-codigo.js`
-  - Praticando com funções: `./o-poder-das-funcoes-na-qualidade-do-seu-codigo.js`
-
+  - O Poder das Funções na Qualidade do Seu Código: `conhecendo-funcoes-javascript/o-poder-das-funcoes-na-qualidade-do-seu-codigo.js`
+  - Praticando com funções: `conhecendo-funcoes-javascript/o-poder-das-funcoes-na-qualidade-do-seu-codigo.js`
 # Criando Objetos e Classes em JavaScript
+  - Entendendo Objetos e Classes: `criando-objetos-e-classes/entendendo-objetos-e-classes.js`
 # Arrays e Estruturas de Repetição em JavaScript
 # Importação e Exportação
 # Introdução ao Desenvolvimento Web com JavaScript
