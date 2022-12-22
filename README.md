@@ -21,6 +21,7 @@
   - Praticando com funções: `conhecendo-funcoes-javascript/o-poder-das-funcoes-na-qualidade-do-seu-codigo.js`
 # Criando Objetos e Classes em JavaScript
   - Entendendo Objetos e Classes: `criando-objetos-e-classes/entendendo-objetos-e-classes.js`
+  - Praticando com Objetos e Classes: `criando-objetos-e-classes/praticando-com-objetos-e-classes.js`
 # Arrays e Estruturas de Repetição em JavaScript
 # Importação e Exportação
 # Introdução ao Desenvolvimento Web com JavaScript
