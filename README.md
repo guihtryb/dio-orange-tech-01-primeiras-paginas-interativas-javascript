@@ -23,6 +23,7 @@
   - Entendendo Objetos e Classes: `criando-objetos-e-classes/entendendo-objetos-e-classes.js`
   - Praticando com Objetos e Classes: `criando-objetos-e-classes/praticando-com-objetos-e-classes.js`
 # Arrays e Estruturas de Repetição em JavaScript
+  - Arrays e Estruturas de Repetição: `arrays-e-estruturas-de-repeticao.js`
 # Importação e Exportação
 # Introdução ao Desenvolvimento Web com JavaScript
 # Criando um Projeto com HTML e CSS para Listagem de Pokémon
