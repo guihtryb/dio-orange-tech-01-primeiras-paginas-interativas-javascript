@@ -26,8 +26,8 @@
   - Arrays e Estruturas de Repetição: `arrays-e-estruturas-de-repeticao-em-javascript/arrays-e-estruturas-de-repeticao.js`
   - Praticando Estruturas de Repetição: `arrays-e-estruturas-de-repeticao-em-javascript/praticando--estruturas-de-repeticao.js`
 # Importação e Exportação Com JavaScript
-  - Desvendando as funções "gets" e "print" dos Desafios de Código
-  `importacao-e-exportacao-em-javascript/desvendando-as-funcoes-gets-e-print-dos-desafios-de-codigo/main.js`
+  - Desvendando as funções "gets" e "print" dos Desafios de Código: `importacao-e-exportacao-em-javascript/desvendando-as-funcoes-gets-e-print-dos-desafios-de-codigo/`
+  - Praticando os conceitos de importação e exportação: `importacao-e-exportacao-em-javascript/main.js`
 # Introdução ao Desenvolvimento Web com JavaScript
 # Criando um Projeto com HTML e CSS para Listagem de Pokémon
 # Dominando o Protocolo HTTP e integrando com a PokeAPI
