@@ -29,6 +29,7 @@
   - Desvendando as funções "gets" e "print" dos Desafios de Código: `importacao-e-exportacao-em-javascript/desvendando-as-funcoes-gets-e-print-dos-desafios-de-codigo/`
   - Praticando os conceitos de importação e exportação: `importacao-e-exportacao-em-javascript/main.js`
 # Introdução ao Desenvolvimento Web com JavaScript
+  - `introducao-ao-desenvolvimento-web-com-javascript/`
 # Criando um Projeto com HTML e CSS para Listagem de Pokémon
 # Dominando o Protocolo HTTP e integrando com a PokeAPI
 # Construindo uma Pokédex com JavaScript
