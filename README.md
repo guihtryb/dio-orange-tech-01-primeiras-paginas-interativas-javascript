@@ -31,5 +31,6 @@
 # Introdução ao Desenvolvimento Web com JavaScript
   - `introducao-ao-desenvolvimento-web-com-javascript/`
 # Criando um Projeto com HTML e CSS para Listagem de Pokémon
+  - `criando-um-projeto-com-html-e-javascript-para-listagem-de-pokemon/`
 # Dominando o Protocolo HTTP e integrando com a PokeAPI
 # Construindo uma Pokédex com JavaScript
